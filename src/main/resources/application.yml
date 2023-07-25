@@ -13,6 +13,7 @@ spring:
     username: kdj
     password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
+
   jpa:
     defer-datasource-initialization: true
     hibernate:
