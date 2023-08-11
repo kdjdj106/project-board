@@ -30,6 +30,8 @@ class JpaRepositoryTest {
         this.articleRepository = articleRepository;
         this.articleCommentRepository = articleCommentRepository;
         this.userAccountRepository = userAccountRepository;
+
+
     }
 
     @DisplayName("select 테스트")
